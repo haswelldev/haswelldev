@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![tg](./tractor-guy.png)
+
 <!--
 **haswelldev/haswelldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
